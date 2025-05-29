@@ -1,2 +1,0 @@
-# dedenbot
-hello world
